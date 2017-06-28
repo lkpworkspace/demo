@@ -89,7 +89,7 @@ $$sum_{i=1}^n a_i=0$$
 </table>
 
 ### 内嵌图标
-<i class="icon3.png"></i>
+![me](pics/icon3.png)
 
 ### 复选框
 - [ ] ok
